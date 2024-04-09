@@ -1442,11 +1442,11 @@
               },
               {
                 "nid": -47014995,
-                "flags": 17,
+                "flags": 51,
                 "strtype": "OBJECT/Size",
                 "intarray": [
-                  69,
-                  37
+                  1,
+                  1
                 ],
                 "InheritedType": 7
               },
@@ -1734,7 +1734,6 @@
               },
               {
                 "nid": 1217794754,
-                "flags": 1048576,
                 "strtype": "OBJECT/Transform",
                 "InheritedType": 1
               },
@@ -1750,11 +1749,11 @@
               },
               {
                 "nid": -573787642,
-                "flags": 17,
+                "flags": 51,
                 "strtype": "OBJECT/Size",
                 "intarray": [
-                  69,
-                  37
+                  1,
+                  1
                 ],
                 "InheritedType": 7
               },
